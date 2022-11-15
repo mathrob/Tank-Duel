@@ -1,1 +1,3 @@
-# Devoir3
+# Tank-Duel
+
+School project 2020 - C++ language course
