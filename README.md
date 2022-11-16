@@ -2,7 +2,7 @@
 
 School project 2020 - C++ language course
 
-Tank-Duel is a 2-4 player playable tank battle game in command prompt
+Tank-Duel is a 2-4 players tank battle game in command prompt
 
 ### Starter Page
 ![](https://github.com/mathrob/Tank-Duel/blob/master/img/startpage.png)
